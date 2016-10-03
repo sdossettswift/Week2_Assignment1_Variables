@@ -1,1 +1,6 @@
 \\Mac\Home\code\TIY_dotNET\Week2_Assignment1_Variables\Week2_Assignment1_Variables\bin\Debug\Week2_Assignment1_Variables.exe.config
+\\Mac\Home\code\TIY_dotNET\Week2_Assignment1_Variables\Week2_Assignment1_Variables\bin\Debug\Week2_Assignment1_Variables.exe
+\\Mac\Home\code\TIY_dotNET\Week2_Assignment1_Variables\Week2_Assignment1_Variables\bin\Debug\Week2_Assignment1_Variables.pdb
+\\Mac\Home\code\TIY_dotNET\Week2_Assignment1_Variables\Week2_Assignment1_Variables\obj\Debug\Week2_Assignment1_Variables.csprojResolveAssemblyReference.cache
+\\Mac\Home\code\TIY_dotNET\Week2_Assignment1_Variables\Week2_Assignment1_Variables\obj\Debug\Week2_Assignment1_Variables.exe
+\\Mac\Home\code\TIY_dotNET\Week2_Assignment1_Variables\Week2_Assignment1_Variables\obj\Debug\Week2_Assignment1_Variables.pdb
