@@ -22,6 +22,7 @@ namespace Week2_Assignment1_Variables
             Console.WriteLine("Today is " + Today);
             Console.WriteLine("I spent $" + Amount + " on a cheeseburger.");
             Console.WriteLine(letter + " marks the spot.");
+            Console.ReadLine(); 
         }
     }
 }
